@@ -10,7 +10,7 @@
     "slicemachine": "start-slicemachine"
   },
   "dependencies": {
-    "@prismicio/client": "^6.6.1",
+    "@prismicio/client": "5.1.0",
     "next": "^12.1.6",
     "prismic-dom": "^2.2.7",
     "react": "18.2.0",
